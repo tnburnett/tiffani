@@ -1,0 +1,41 @@
+body{
+  background-color: #E9D5DA;
+}
+hr{
+  border-style: dotted none none none;
+  width: 50%;
+  align: center;
+  border-width: thick;
+}
+h1{
+  color: #4D4C7D;
+}
+h2{
+  text-align: center;
+  color: #827397;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+.hobbies {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 150px;
+}
+.header{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+}
+.headersmall{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 150px;
+}
+ul {
+  list-style: none;
+}
